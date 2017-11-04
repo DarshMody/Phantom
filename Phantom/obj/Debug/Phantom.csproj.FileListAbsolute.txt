@@ -1,0 +1,12 @@
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\phantomjs.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\phantomjs-license.txt
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\Phantom.exe.config
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\Phantom.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\Phantom.pdb
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\WebDriver.dll
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\WebDriver.Support.dll
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\WebDriver.xml
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\bin\Debug\WebDriver.Support.xml
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\obj\Debug\Phantom.csprojResolveAssemblyReference.cache
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\obj\Debug\Phantom.exe
+c:\users\darkbound\documents\visual studio 2017\Projects\Phantom\Phantom\obj\Debug\Phantom.pdb
